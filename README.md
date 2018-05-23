@@ -1,6 +1,5 @@
 ![](http://i0.wp.com/imaginexconsulting.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-06-at-5.54.22-PM.png)
-
-
+><sup><sub>source: http://i0.wp.com/imaginexconsulting.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-06-at-5.54.22-PM.png
 
 * DevOps **works** closely with a developer/development team/squad **_early on_** to figure out options on many things which development process off-loads to DevOps in the later part of the delivery(and often in haste). Such practice would bring more harmony among teams and more time to soak in requirements, not just from a development perspective, but also with an operational eye.  
 
@@ -185,3 +184,4 @@ A fairly sophisticated infra diagram
 *   You are fluent in DevOps tools eg.Ansible as much as you are in 'Clash of Clan' tactics.
 
 *   You will be on-call at least ¼ of a month and you are expected to respond as timely as you would reply to your Facebook comments/Twitter replies i.e. 2s to 10s at max ;) and your escalation or remediation for an event is not as sloppy as your Facebook likes/Twitter retweets!!
+
