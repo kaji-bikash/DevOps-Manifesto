@@ -181,7 +181,7 @@ A fairly sophisticated infra diagram
 
 *   For every hour wasted in funny GIFs and entertaining videos on Youtube/Facebook/Twitter, you vow to spend ¼hr in researching something useful to your work.
 
-*   You are fluent in DevOps tools eg.Ansible as much as you are in 'Clash of Clan' tactics.
+*   You are fluent in DevOps tools eg.Ansible as much as you are in ['Clash of Clan'](https://www.youtube.com/channel/UCD1Em4q90ZUK2R5HKesszJg) tactics.
 
 *   You will be on-call at least ¼ of a month and you are expected to respond as timely as you would reply to your Facebook comments/Twitter replies i.e. 2s to 10s at max ;) and your escalation or remediation for an event is not as sloppy as your Facebook likes/Twitter retweets!!
 
